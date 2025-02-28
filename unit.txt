@@ -1,4 +1,0 @@
-MongoDB vs MongoDB Atlas:
-
-MongoDB is a self-managed, open-source database that requires manual setup and maintenance. MongoDB Atlas is a fully managed cloud service with automated scaling, backups, and security. Choose MongoDB for control or Atlas for ease of use.
-
